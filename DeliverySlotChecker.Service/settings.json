@@ -1,0 +1,12 @@
+﻿{
+  "Services": 
+    [
+      {
+        "Service" :  "Asda",
+        "Enabled": true,
+        "IncludePickUp" :  true,
+        "HomePostCode": "B236AL",
+        "PickupPostCode": "B295UP"
+      }
+    ]
+}
